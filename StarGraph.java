@@ -25,7 +25,7 @@ public class StarGraph{
         Double[] y = new Double[N];
        
 
-        for(int i = 0; i < 10; i++){
+        for(int i = 0; i < N; i++){
             if(i == 0){
                 x[0] = (double) min;
             } else{
